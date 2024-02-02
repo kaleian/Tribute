@@ -1,0 +1,27 @@
+.body{
+margin: 0;
+width: 0;
+}
+.about{
+    justify-content: center;
+}
+.about h1{
+    text-align: center;
+}
+.about img{
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   width:50%;
+   margin-left: 48vh;
+   border-radius: 3vh;
+   display: flex;
+}
+.about h2{
+    text-align: center;
+}
+.about p{
+text-align: left;
+margin-left: 100px;
+margin-right: 100px;
+}
